@@ -12,7 +12,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walfrido-oliveira&show_icons=true)](https://github.com/AVS1508)
+[![walfrido-oliveira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walfrido-oliveira&show_icons=true)](https://github.com/walfrido-oliveira)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
